@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Breal21
-- 👀 I’m a python programmer and a hacker
-- 💞️ I’m looking to collaborate on a waffle eating contest
-
+- 👨🏻‍💻 I am a coder and an ethical Hacker
+- 🐭 I'm barley on here 
 
